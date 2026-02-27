@@ -8,7 +8,7 @@
 
 ### 💻 Software, DevOps & Data Solutions
 
-I am a **passionate Engineer** dedicated to designing resilient architectures and high-impact automated workflows. By merging my **Civil Engineering** and **Business Strategy MBA** background with **technical competencies in Data Analytics, Programming, and DevOps Engineering**, I deliver software solutions rooted in logic, operational integrity, and ROI.
+I am a passionate Engineer dedicated to designing resilient architectures and high-impact automated workflows. By merging my Civil Engineering and Business Strategy MBA background with technical competencies in Data Analytics, Programming, and DevOps Engineering in Agile/Scrum environments, I deliver software solutions rooted in logic, operational integrity, and ROI."
 
 I am a **proactive problem-solver with high autonomy**, driven by a "get it done" mindset. I navigate complex documentation and overcome technical bottlenecks independently to maintain project momentum, delivering solutions that are sustainable, well-documented, and perfectly aligned with the company’s strategic goals and technical standards. 
 
