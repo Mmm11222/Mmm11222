@@ -61,7 +61,7 @@ I invite you to explore my repositories, where I document my technical specializ
 📊 **[Check my data visualizations and dashboards here](https://public.tableau.com/app/profile/mafalda.antunes/vizzes)**
 
 ---
-# 🎓 Education & Credentials
+# 🎓 Education
 
 <p align="left">
   <img src="https://img.shields.io/badge/FEUP-%23990000.svg?style=for-the-badge&logoColor=white" alt="FEUP" />
